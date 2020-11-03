@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/box-office/static/css/main.93052401.chunk.css",
-    "main.js": "/box-office/static/js/main.76465261.chunk.js",
-    "main.js.map": "/box-office/static/js/main.76465261.chunk.js.map",
-    "runtime-main.js": "/box-office/static/js/runtime-main.e4c5afaf.js",
-    "runtime-main.js.map": "/box-office/static/js/runtime-main.e4c5afaf.js.map",
-    "static/js/2.5bbfd9d7.chunk.js": "/box-office/static/js/2.5bbfd9d7.chunk.js",
-    "static/js/2.5bbfd9d7.chunk.js.map": "/box-office/static/js/2.5bbfd9d7.chunk.js.map",
+    "main.css": "/box-office/static/css/main.5fffadb5.chunk.css",
+    "main.js": "/box-office/static/js/main.040e77f7.chunk.js",
+    "main.js.map": "/box-office/static/js/main.040e77f7.chunk.js.map",
+    "runtime-main.js": "/box-office/static/js/runtime-main.7eb23dcb.js",
+    "runtime-main.js.map": "/box-office/static/js/runtime-main.7eb23dcb.js.map",
+    "static/js/2.6f15a841.chunk.js": "/box-office/static/js/2.6f15a841.chunk.js",
+    "static/js/2.6f15a841.chunk.js.map": "/box-office/static/js/2.6f15a841.chunk.js.map",
     "index.html": "/box-office/index.html",
-    "precache-manifest.6096a9bf768d6234dbdd90d3942cccf9.js": "/box-office/precache-manifest.6096a9bf768d6234dbdd90d3942cccf9.js",
-    "service-worker.js": "/box-office/service-worker.js",
-    "static/css/main.93052401.chunk.css.map": "/box-office/static/css/main.93052401.chunk.css.map",
-    "static/js/2.5bbfd9d7.chunk.js.LICENSE.txt": "/box-office/static/js/2.5bbfd9d7.chunk.js.LICENSE.txt"
+    "static/css/main.5fffadb5.chunk.css.map": "/box-office/static/css/main.5fffadb5.chunk.css.map",
+    "static/js/2.6f15a841.chunk.js.LICENSE.txt": "/box-office/static/js/2.6f15a841.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c5afaf.js",
-    "static/js/2.5bbfd9d7.chunk.js",
-    "static/css/main.93052401.chunk.css",
-    "static/js/main.76465261.chunk.js"
+    "static/js/runtime-main.7eb23dcb.js",
+    "static/js/2.6f15a841.chunk.js",
+    "static/css/main.5fffadb5.chunk.css",
+    "static/js/main.040e77f7.chunk.js"
   ]
 }
